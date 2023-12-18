@@ -59,7 +59,7 @@ Explore real-time weather data integration with the free OpenWeatherMap API key.
 
 ## Demo
 
-Check out the live demo of the app: [Redux Saga Weather App](#)
+Check out the live demo of the app: [Redux Saga Weather App](https://redux-saga-weather.netlify.app/)
 
 ## Contributing
 
